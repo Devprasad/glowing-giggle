@@ -1,11 +1,19 @@
 start server:
-cd api
-delete node_modules
-npm install
-npm start
+
+1. ```cd api```
+
+2. delete node_modules
+
+3. ```npm install```
+
+4. ```npm start```
 
 start the react app:
-cd my-app
-delete node_modules
-npm install
-npm start
+
+1. ```cd my-app```
+
+2. delete node_modules
+
+3. ```npm install```
+
+4. ```npm start```
